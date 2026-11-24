@@ -1,0 +1,1 @@
+{"description":"PullbackSnap: a pump.fun paper-trading bot for the make.fun replay sprint (agent-fun/replay/v2).","engines":{"node":">=22.18"},"license":"MIT","name":"u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b","private":true,"scripts":{"backtest":"node tools/backtest.ts","start":"node main.ts"},"type":"module","version":"1.0.0"}
